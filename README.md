@@ -1,5 +1,5 @@
 Для запуска нажать ран в
-классе [MarkoServComeBackApplication.java](src/main/java/ru/valya/serveback/MarkoServComeBackApplication.java)
+классе [ServeBackApplication.java](src/main/java/ru/valya/serveback/ServeBackApplication.java)
 В проекте юзаются Object Storage(S3) и YandexGPT API + капча на фронте https://yandex.cloud/ru/docs/smartcaptcha/?from=int-console-empty-state 
 Дока яндекса на реализованный метод https://yandex.cloud/ru/docs/foundation-models/text-generation/api-ref/TextGeneration/completion
 Урлы:
