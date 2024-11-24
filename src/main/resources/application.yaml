@@ -1,0 +1,9 @@
+application:
+  s3:
+    key-id:
+    key:
+  yandex:
+    url:
+    gpt-url:
+    folder-id:
+    api-key:
